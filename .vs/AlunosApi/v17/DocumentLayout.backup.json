@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developer\\AlunosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|c:\\developer\\alunosapi\\alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|c:\\developer\\alunosapi\\alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|c:\\developer\\alunosapi\\alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|c:\\developer\\alunosapi\\alunosapi\\migrations\\20240917123527_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA40A6-4121-4B02-8D8B-7850F0BB29DE}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\migrations\\20240917123527_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Developer\\AlunosApi\\AlunosApi\\Program.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Program.cs",
+              "ToolTip": "C:\\Developer\\AlunosApi\\AlunosApi\\Program.cs",
+              "RelativeToolTip": "AlunosApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:22:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Developer\\AlunosApi\\AlunosApi\\Startup.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Startup.cs",
+              "ToolTip": "C:\\Developer\\AlunosApi\\AlunosApi\\Startup.cs",
+              "RelativeToolTip": "AlunosApi\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:18:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Developer\\AlunosApi\\AlunosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AlunosApi\\appsettings.json",
+              "ToolTip": "C:\\Developer\\AlunosApi\\AlunosApi\\appsettings.json",
+              "RelativeToolTip": "AlunosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T12:38:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240917123527_inicial.cs",
+              "DocumentMoniker": "C:\\Developer\\AlunosApi\\AlunosApi\\Migrations\\20240917123527_inicial.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240917123527_inicial.cs",
+              "ToolTip": "C:\\Developer\\AlunosApi\\AlunosApi\\Migrations\\20240917123527_inicial.cs",
+              "RelativeToolTip": "AlunosApi\\Migrations\\20240917123527_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:36:48.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
